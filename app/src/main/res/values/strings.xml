@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Continue Watch</string>
-    <string name="seconds_elapsed">Seconds elapsed: %d</string>
+    <string name="text_view">Seconds elapsed: %1$d</string>
+    <string name="seconds_elapsed_0">Seconds elapsed: 0</string>
 </resources>
